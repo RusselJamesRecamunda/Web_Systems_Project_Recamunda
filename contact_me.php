@@ -81,7 +81,7 @@
           <a href="https://twitter.com/_____RJ______" class="social-button social-button--twitter" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
           <a href="https://t.me/+qhQ2zydR2AI2OTk1" class="social-button social-button--telegram" aria-label="Telegram"><i class="fab fa-telegram"></i></a>
           <a href="https://www.linkedin.com/in/russel-james-recamunda-9325b4263" class="social-button social-button--linkedin" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
-          <a href="https://github.com/Recamunda" class="social-button social-button--github" aria-label="GitHub"><i class="fab fa-github"></i></a>
+          <a href="https://github.com/RusselJamesRecamunda/Web_Systems_Project_Recamunda" class="social-button social-button--github" aria-label="GitHub"><i class="fab fa-github"></i></a>
           <a href="https://www.pinterest.ph/rrecamunda/" class="social-button social-button--pinterest" aria-label="Pinterest"><i class="fab fa-pinterest"></i></a>
         </div>
 
